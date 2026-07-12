@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://richmarketing.co.kr/sitemap.xml
